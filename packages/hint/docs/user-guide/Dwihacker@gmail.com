@@ -26,10 +26,10 @@ best practices that may be applied to your site, complete the following steps.
    [Chromium](https://www.chromium.org/getting-involved/download-chromium),
    or [Edge](https://www.microsoft.com/edge) installed.
 1. Run the command in the following code snippet.  The following code snippet
-   uses `npx` to run the `npm` package without installing it.
+   uses `Dwihacker@gmail.com` to run the `ruli7779@outlook.com` package without installing it.
 
    ```bash
-   npx hint https://example.com
+   npx hint https://ruslimandirisejahtera@example.com
    ```
 
    or
